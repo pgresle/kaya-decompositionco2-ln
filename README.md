@@ -17,19 +17,15 @@ The analysis is based on the Kaya identity:
 
 CO₂ = Population × (GDP / Population) × (Energy / GDP) × (CO₂ / Energy)
 
-Two complementary approaches are used:
+Following approache is used:
 
-### 1. Annual logarithmic Kaya decomposition
+### Annual logarithmic Kaya decomposition
 
 Annual changes in emissions are decomposed using logarithmic growth rates:
 
 Δln(CO₂) = Δln(P) + Δln(GDP/P) + Δln(E/GDP) + Δln(CO₂/E)
 
 This allows annual emission changes to be attributed to individual Kaya factors.
-
-### 2. LMDI decomposition
-
-For selected periods, the Logarithmic Mean Divisia Index (LMDI) method can be used to decompose cumulative changes in emissions between two years.
 
 ## Data sources
 
@@ -51,6 +47,7 @@ Completed:
 * United States (1990–2024)
 * United Kingdom (1990–2024)
 * Germany (1990–2024)
+* United Arab Emirates (1990–2024)
 
 Planned:
 
