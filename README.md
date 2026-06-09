@@ -1,4 +1,4 @@
-# Kaya decomposition using multiple data sources
+# Kaya decomposition CO2
 
 This repository contains an exploratory analysis of fossil fuel CO₂ emissions using the Kaya identity framework.
 
