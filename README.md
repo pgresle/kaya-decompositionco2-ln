@@ -34,10 +34,17 @@ This allows annual emission changes to be attributed to individual Kaya factors.
 * Population (SP.POP.TOTL)
 * GDP, constant 2015 US$ (NY.GDP.MKTP.KD)
 
+https://datahelpdesk.worldbank.org/knowledgebase/articles/898599-indicator-api-queries
+
+
 ### Energy Institute Statistical Review of World Energy
 
 * Total Energy Supply (TES)
 * Fossil fuel combustion CO₂ emissions
+
+Energy Institute (2025). Statistical Review of World Energy 2025. Energy Institute, London.
+Available online at: https://www.energyinst.org/statistical-review/resources-and-data-downloads
+
 
 ## Countries analysed
 
@@ -48,9 +55,7 @@ Completed:
 * United Kingdom (1990–2024)
 * Germany (1990–2024)
 * United Arab Emirates (1990–2024)
-
-Planned:
-
+* Austria
 * Czech Republic
 * Japan
 * India
